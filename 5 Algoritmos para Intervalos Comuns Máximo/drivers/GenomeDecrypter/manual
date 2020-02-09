@@ -1,0 +1,17 @@
+----------------------- ## -------------------------
+
+Todos os genomas de entrada possuem comprimento 21,
+sendo 7 famílias de genes com 3 repetições cada
+
+----------------------- ## -------------------------
+
+Cada diretório possui a implementação dos algoritmos
+para realização dos testes, correspondente ao nome 
+do diretório
+
+----------------------- ## -------------------------
+
+O diretório 'saidas' armazena as saídas
+correspondentes a todos os testes realizados
+
+----------------------- ## -------------------------

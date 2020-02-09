@@ -1,0 +1,8 @@
+Aqui serao dispostos os tempos medios de execucao de getNumCIs para tamanho 30
+num de processadores envolvidos: 4
+
+avgTime	procNumber	
+1.415061	0
+1.395166	1
+1.397989	2
+1.410333	3

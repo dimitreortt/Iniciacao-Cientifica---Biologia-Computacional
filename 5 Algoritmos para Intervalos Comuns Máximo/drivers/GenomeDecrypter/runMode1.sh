@@ -1,0 +1,9 @@
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma1
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma2
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma4
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma5
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma6
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma7
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma8
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma9
+mpiexec -np 216 --prefix /opt/openmpi --hostfile machine.txt python modeOne_paralelo.py genomasDeInput/genoma10
